@@ -1,6 +1,10 @@
 Overview:
 Analyses UK housing affordability (2020-2024) using Land Registry house prices and ONS income (GDHI per head). Affordability ratio = median house price ÷ GDHI per head. It answers 5 questions: price vs income growth, regional gaps, income-price correlation, property type differences, and the pandemic boom vs rate-rise period.
 
+Dataset Source:
+   1. https://www.ons.gov.uk/explore-local-statistics/indicators/gross-disposable-household-income-per-head#get-the-data
+   2. https://www.gov.uk/government/statistical-data-sets/price-paid-data-yearly-file
+
 Execution Instructions: 
    1. Open housing_affordability.ipynb using Jupyter Notebook
    2. Install the required libraries: pandas, numpy, and matplotlib
